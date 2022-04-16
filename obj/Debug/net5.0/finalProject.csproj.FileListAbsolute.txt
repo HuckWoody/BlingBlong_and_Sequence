@@ -1,0 +1,15 @@
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.csproj.AssemblyReference.cache
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.AssemblyInfoInputs.cache
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.AssemblyInfo.cs
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.csproj.CoreCompileInputs.cache
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/bin/Debug/net5.0/finalProject.deps.json
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/bin/Debug/net5.0/finalProject.runtimeconfig.json
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/bin/Debug/net5.0/finalProject.runtimeconfig.dev.json
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/bin/Debug/net5.0/finalProject.dll
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/bin/Debug/net5.0/ref/finalProject.dll
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/bin/Debug/net5.0/finalProject.pdb
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.dll
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/ref/finalProject.dll
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.pdb
+/Users/haroldwoody/Desktop/BethelTech/ProgrammingC#/finalProject/obj/Debug/net5.0/finalProject.genruntimeconfig.cache
